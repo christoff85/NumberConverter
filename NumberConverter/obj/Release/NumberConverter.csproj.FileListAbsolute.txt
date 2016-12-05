@@ -1,0 +1,13 @@
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\bin\Release\NumberConverter.exe.config
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\bin\Release\NumberConverter.exe.manifest
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\bin\Release\NumberConverter.application
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\bin\Release\NumberConverter.exe
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\bin\Release\NumberConverter.pdb
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.csprojResolveAssemblyReference.cache
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.UserInterface.resources
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.Properties.Resources.resources
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.csproj.GenerateResource.Cache
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.exe.manifest
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.application
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.exe
+C:\Users\Agata\Documents\Visual Studio 2015\Projects\NumberConverter\NumberConverter\obj\Release\NumberConverter.pdb
